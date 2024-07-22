@@ -39,3 +39,10 @@ install_files: >-
   tigress.extended.dict.yaml
   tigress_ci.dict.yaml
   tigress_simp_ci.dict.yaml
+  PY_c.dict.yaml
+  PY_c.schema.yaml
+  PY_c.txt
+  core2022.dict.yaml
+  core2022.schema.yaml
+  easy_english.dict.yaml
+  easy_english.schema.yaml
