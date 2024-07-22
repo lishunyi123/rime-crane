@@ -34,3 +34,8 @@ install_files: >-
   tiger.schema.yaml
   tiger.dict.yaml
   tiger.extended.dict.yaml
+  tigress.dict.yaml
+  tigress.schema.yaml
+  tigress.extended.dict.yaml
+  tigress_ci.dict.yaml
+  tigress_simp_ci.dict.yaml
