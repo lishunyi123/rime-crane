@@ -30,4 +30,6 @@ install_files: >-
   radical_pinyin.dict.yaml
   melt_eng.schema.yaml
   melt_eng.dict.yaml
+  xhup.schema.yaml
+  xhup.dict.yaml
   custom_phrase.txt
