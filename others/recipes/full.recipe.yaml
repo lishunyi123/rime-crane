@@ -9,6 +9,7 @@ install_files: >-
   cn_dicts/*.*
   en_dicts/*.*
   opencc/*.*
+  xhup_dicts/*.*
   rime.lua
   lua/*.*
   lua/cold_word_drop/*.*
