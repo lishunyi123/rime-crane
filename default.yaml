@@ -8,9 +8,9 @@ config_version: '2024-02-05'
 
 # 方案列表
 schema_list:
-  - schema: xhup                   # 小鹤音形
-  # - schema: rime_ice               # 雾凇拼音（全拼）
-  # - schema: double_pinyin_flypy    # 小鹤双拼
+  # - schema: xhup                   # 小鹤音形
+  - schema: rime_ice               # 雾凇拼音（全拼）
+  - schema: double_pinyin_flypy    # 小鹤双拼
   - schema: tiger                  # 虎码单字版
   - schema: tigress                # 虎码字词版
   # - schema: PY_c                   # 拼音反查
